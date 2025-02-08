@@ -1,5 +1,5 @@
 # config.py
-BOT_NAME = "RUP"
+BOT_NAME = "Luminant ❤️"
 BOT_TOKEN = "7700992524:AAGf3sOtxnPM3tBUeh50J2BKxvsGsrdMGJA"
 API_ID = 15541919
 API_HASH = "fbf0d590575bbaaad9d773d04c8872e4"
